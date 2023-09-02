@@ -10,9 +10,19 @@ I am Prameela Pathuri completed my under graduation in 2021 in the stream comput
 
 Describing 4 kinds of sports.
 
-|  sport Name|  Reason                              |  Hours  |
+|  Sport Name|  Reason                              |  Hours  |
 | ---        | -------                              | --------|
 | Tennis     | It improves focus and concentration. |  8      |
 | Cricket    | Improves Hand Eye coordination.      |  5      |
 | Football   | It involves Teamwork.                |  8      |
 | Surfing    | Reduce stress and anxiety.           |  2      |
+
+
+**************************************
+
+### Pithy Quotes
+> Talent at Nessecity has Value- *Miles Davis*
+>
+>The only source of knowledge is experience.- *Albert Einstein*
+
+************************************8
