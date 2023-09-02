@@ -26,3 +26,27 @@ Describing 4 kinds of sports.
 >The only source of knowledge is experience.- *Albert Einstein*
 
 ************************************
+
+### Code Fencing
+
+>How to keep text from running over svg in responsive design?
+[Stackoverflow link]
+<https://stackoverflow.com/questions/32292012/how-to-keep-text-from-running-over-svg-in-responsive-design>
+```
+<svg viewBox="0 0 100 100">
+  <text>
+    <tspan class="line-1" textLength="100" x="0" y="1em" font-size="20">
+      The Cat
+    </tspan>
+    <tspan class="line-2" textLength="100" x="0" dy="0.9em" font-size="20" lengthAdjust="spacingAndGlyphs">
+      in the
+    </tspan>
+    <tspan class="line-3" textLength="100" x="0" dy="0.9em" font-size="35">
+      Hat
+    </tspan>
+  </text>
+</svg>
+
+```
+[CSS Trick]
+<https://css-tricks.com/snippets/svg/text-lock-up/>
