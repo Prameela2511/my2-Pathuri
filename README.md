@@ -15,3 +15,5 @@ Goa is *famousforbeaches*.
     - Fish fry
     - Ice Cream
     - Samosas
+
+![MyStats] https://vscode.dev/github/Prameela2511/my2-Pathuri/blob/main/MyStats.md
