@@ -4,3 +4,15 @@ I am Prameela Pathuri completed my under graduation in 2021 in the stream comput
 
 ![mine](https://github.com/Prameela2511/my2-Pathuri/assets/143015943/b32494d4-afd3-4c88-896b-b0a8d490eb81)
 
+**************************
+
+### Sports Table
+
+Describing 4 kinds of sports.
+
+|  sport Name|  Reason                              |  Hours  |
+| ---        | -------                              | --------|
+| Tennis     | It improves focus and concentration. |  8      |
+| Cricket    | Improves Hand Eye coordination.      |  5      |
+| Football   | It involves Teamwork.                |  8      |
+| Surfing    | Reduce stress and anxiety.           |  2      |
