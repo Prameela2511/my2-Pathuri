@@ -25,4 +25,4 @@ Describing 4 kinds of sports.
 >
 >The only source of knowledge is experience.- *Albert Einstein*
 
-************************************8
+************************************
